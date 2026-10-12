@@ -1,0 +1,15 @@
+{
+  "name": "form-pilot-plugins-stg",
+  "description": "form-pilot の検証環境（staging）用プラグイン。利用者は kei-nishio/form-pilot-plugins を使ってください",
+  "owner": {
+    "name": "kei-nishio",
+    "url": "https://github.com/kei-nishio"
+  },
+  "plugins": [
+    {
+      "name": "form-pilot-stg",
+      "source": "./plugins/form-pilot-stg",
+      "description": "form-pilot の検証環境（staging）の MCP サーバーにつなぐ（初回に Google ログイン）"
+    }
+  ]
+}

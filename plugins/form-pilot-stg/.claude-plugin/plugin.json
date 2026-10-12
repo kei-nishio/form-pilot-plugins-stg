@@ -1,0 +1,15 @@
+{
+  "name": "form-pilot-stg",
+  "version": "0.1.0",
+  "description": "form-pilot の検証環境（staging）の MCP サーバーにつなぐ（初回に Google ログイン）",
+  "author": {
+    "name": "kei-nishio",
+    "url": "https://github.com/kei-nishio"
+  },
+  "homepage": "https://github.com/kei-nishio/form-pilot-plugins-stg",
+  "repository": "https://github.com/kei-nishio/form-pilot-plugins-stg",
+  "keywords": [
+    "form-pilot",
+    "mcp"
+  ]
+}
